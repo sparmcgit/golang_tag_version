@@ -1,7 +1,7 @@
-package main
+package golang_tag_version
 
 import "fmt"
 
-func main() {
+func PrintTag() {
 	fmt.Println("vim-go")
 }
